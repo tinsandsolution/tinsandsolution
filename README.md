@@ -1,6 +1,3 @@
-### Hi, I’m Lara!
-### About
-
 My proudest achievement, code-wise, was making a prediction market clone where my bootcamp classmates could be on who would fail the capstone
 
 In my free time I show up to city council meetings to talk about how we need more affordable housing
